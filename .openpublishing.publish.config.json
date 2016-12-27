@@ -1,19 +1,9 @@
 {
   "build_entry_point": "op.ps1",
   "need_generate_pdf": false,
-  "docsets_to_publish": [
-    {
-      "docset_name": "fenxu_bracket_1",
-      "build_source_folder": null,
-      "build_output_subfolder": "fenxu_(asdf)",
-      "locale": "en-us",
-      "version": 0,
-      "open_to_public_contributors": true,
-      "type_mapping": {
-        "Conceptual": "Content",
-        "ManagedReference": "Content"
-      }
-    }
-  ],
-  "notification_subscribers": []
+  "need_generate_intellisense": false,
+  "docsets_to_publish": [],
+  "notification_subscribers": [],
+  "skip_source_output_uploading": false,
+  "need_generate_pdf_url_template": false
 }
